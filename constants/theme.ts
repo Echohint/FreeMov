@@ -1,5 +1,5 @@
 export const Colors = {
-  primary: '#E50914', // Netflix Red
+  primary: '#7F00FF', // Vivid Purple
   background: '#000000',
   surface: '#121212',
   surfaceHighlight: '#2A2A2A',
